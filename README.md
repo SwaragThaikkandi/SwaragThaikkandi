@@ -6,6 +6,8 @@
 
 ![Habits Metrics](https://github.com/SwaragThaikkandi/SwaragThaikkandi/raw/main/metrics.plugin.habits.charts.svg)
 
+![Languages Metrics](https://github.com/SwaragThaikkandi/SwaragThaikkandi/raw/main/metrics.plugin.languages.indepth.svg)
+
 ![Discussions Metrics](https://github.com/SwaragThaikkandi/SwaragThaikkandi/raw/main/metrics.plugin.discussions.svg)
 
 ![Calendar Metrics](https://github.com/SwaragThaikkandi/SwaragThaikkandi/raw/main/metrics.plugin.calendar.svg)
