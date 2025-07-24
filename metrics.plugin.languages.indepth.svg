@@ -16,15 +16,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 3.90mb of code in 624 edited files across 650 commits</small>
+                <small>estimation from 3.98mb of code in 642 edited files across 666 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="383.663399216049" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="383.663399216049" y="0" width="55.65292676996792" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="439.316325986017" y="0" width="20.683674013983026" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="397.4103787116317" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="397.4103787116317" y="0" width="45.63074035717238" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="443.0411190688041" y="0" width="16.95888093119594" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -36,8 +36,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>8.24k lines</div>
-                                <div>281 kB</div>
+                                <div>10.8k lines</div>
+                                <div>355 kB</div>
                             </small>
                         </div>
                         <div class="field language details">
