@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="111" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="139" class="">
     <defs>
         <style/>
     </defs>
@@ -47,7 +47,7 @@
                     <section>
                         <div class="field wrap">
                             <div class="label label-flex">📣 Announcements <div class="label-right">4</div></div>
-                            <div class="label label-flex">🗒 Pages <div class="label-right">1</div></div>
+                            <div class="label label-flex">💭 Other Feature Feedback, Questions, &amp; Ideas <div class="label-right">1</div></div>
                             <div class="label label-flex">💬 General <div class="label-right">1</div></div>
                             <div class="label label-flex">🗳 Polls <div class="label-right">1</div></div>
                         </div>
